@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @riley10445
-- 👀 I’m interested in web development and cybersecurity.
-- 🌱 I’m currently learning Python, JS, and CSS.
-- 💞️ I’m looking to collaborate on academic projects for learners.
+- 👀 I’m interested in cybersecurity and networking.
+- 🌱 I’m currently working as a security analyst.
 
 <!---
 riley10445/riley10445 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
